@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Bao",
+      "major": "Software Engineering"
+    },
+    {
+      "id": "2",
+      "name": "Anna",
+      "major": "Data Science"
+    },
+    {
+      "name": "Ly",
+      "major": "Data Science",
+      "id": "DfmPG0D"
+    },
+    {
+      "name": "Anna",
+      "major": "Software Engineering",
+      "id": "FhTmzZc"
+    },
+    {
+      "id": "fAqGBSv",
+      "name": "Linh",
+      "major": "Data Science"
+    }
+  ]
+}
